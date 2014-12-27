@@ -1,1 +1,40 @@
-/Users/czapla/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings
+{
+	"always_prompt_for_file_reload": false,
+	"bold_folder_labels": false,
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/Solarized (dark) (SL).tmTheme",
+	"draw_indent_guides": false,
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_face": "Menlo Regular",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage",
+		"BracketHighlighter",
+		"SideBarEnhancements",
+		"LiveReload"
+	],
+	"margin": 0,
+	"open_files_in_new_window": false,
+	"remember_open_files": true,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 0
+}
